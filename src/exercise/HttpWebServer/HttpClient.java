@@ -1,4 +1,4 @@
-package exercise.exercise2;
+package exercise.HttpWebServer;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
@@ -31,7 +31,7 @@ public class HttpClient {
     private byte[] buffer;
 
     /**
-     * My socket to the world.
+     * My tools.socket to the world.
      */
     Socket socket = null;
 
@@ -41,12 +41,12 @@ public class HttpClient {
     private static final int PORT = 80;
 
     /**
-     * Output stream to the socket.
+     * Output stream to the tools.socket.
      */
     BufferedOutputStream ostream = null;
 
     /**
-     * Input stream from the socket.
+     * Input stream from the tools.socket.
      */
     BufferedInputStream istream = null;
 
@@ -80,13 +80,13 @@ public class HttpClient {
 
     /**
      * <em>connect</em> connects to the input host on the default http port -- port
-     * 80. This function opens the socket and creates the input and output streams
+     * 80. This function opens the tools.socket and creates the input and output streams
      * used for communication.
      */
     public void connect(String host) throws Exception {
 
         /**
-         * Open my socket to the specified host at the default port.
+         * Open my tools.socket to the specified host at the default port.
          */
         socket = new Socket(host, PORT);
 

@@ -1,4 +1,4 @@
-package exercise.exercise2;
+package exercise.HttpWebServer;
 
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -25,10 +25,8 @@ public class HttpServer {
 
     /**
      * The constructor to initialize an instance of {@link ServerSocket}, bind with
-     * the specified TCP port defined in {@link Configuration}. The thread pool
-     * capacity is set to {@code 6}.
+     * the specified TCP port . The thread pool capacity is set to {@code 6}.
      *
-     * @see Configuration#TCP_PORT
      */
     public HttpServer() {
         try {

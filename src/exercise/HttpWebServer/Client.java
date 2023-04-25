@@ -1,4 +1,4 @@
-package exercise.exercise2;
+package exercise.HttpWebServer;
 
 import java.io.BufferedReader;
 import java.io.FileOutputStream;

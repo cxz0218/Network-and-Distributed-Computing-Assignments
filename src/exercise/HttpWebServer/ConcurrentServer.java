@@ -1,4 +1,4 @@
-package exercise.exercise2;
+package exercise.HttpWebServer;
 
 import java.io.*;
 import java.net.Socket;
@@ -28,11 +28,11 @@ public class ConcurrentServer implements Runnable {
     public static final String ROOT = "D:\\exercise2\\server\\";
 
     /**
-     * Constructor of this class to initialize the {@code socket} each time an
+     * Constructor of this class to initialize the {@code tools.socket} each time an
      * instance is implemented.
      *
      * @param socket
-     *            Specified socket for assignment.
+     *            Specified tools.socket for assignment.
      */
     public ConcurrentServer(Socket socket) {
         System.out.println(socket.getInetAddress().getHostAddress() + ":" + socket.getPort() + ">Connected.");

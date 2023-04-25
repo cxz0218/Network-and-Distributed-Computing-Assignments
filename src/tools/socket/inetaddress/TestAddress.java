@@ -1,4 +1,4 @@
-package socket.inetaddress;
+package tools.socket.inetaddress;
 
 import java.net.InetAddress;
 

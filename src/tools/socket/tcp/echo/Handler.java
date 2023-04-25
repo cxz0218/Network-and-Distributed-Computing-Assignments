@@ -1,10 +1,10 @@
-package socket.tcp.echo;
+package tools.socket.tcp.echo;
 
 import java.io.*;
 import java.net.Socket;
 
 public class Handler implements Runnable{
-    //Socket socket;
+    //Socket tools.socket;
     private Socket socket;
     BufferedReader bufferedReader;
     BufferedWriter bufferedWriter;

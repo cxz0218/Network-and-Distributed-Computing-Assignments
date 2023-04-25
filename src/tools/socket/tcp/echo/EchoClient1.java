@@ -1,4 +1,4 @@
-package socket.tcp.echo;
+package tools.socket.tcp.echo;
 
 import java.io.*;
 import java.net.InetSocketAddress;
@@ -14,7 +14,7 @@ public class EchoClient1 {
     PrintWriter printWriter;
 
     public EchoClient1() throws IOException {
-        //socket = new Socket(HOST, PORT);
+        //tools.socket = new Socket(HOST, PORT);
         socket = new Socket();
         socket.connect(new InetSocketAddress(HOST,PORT),3000);
         System.out.println("连接成功！");

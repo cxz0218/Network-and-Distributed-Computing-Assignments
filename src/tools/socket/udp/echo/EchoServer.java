@@ -1,8 +1,7 @@
-package socket.udp.echo;
+package tools.socket.udp.echo;
 
 import java.io.IOException;
 import java.net.*;
-import java.nio.charset.StandardCharsets;
 
 public class EchoServer {
     DatagramSocket datagramSocket;

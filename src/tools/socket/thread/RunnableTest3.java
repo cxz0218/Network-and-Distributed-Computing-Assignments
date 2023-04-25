@@ -1,4 +1,4 @@
-package socket.thread;
+package tools.socket.thread;
 //学习链接：https://blog.csdn.net/fen_fen/article/details/121466128 解决多线程安全—synchronized
 
 class RunnableTest3  implements Runnable{

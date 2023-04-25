@@ -1,4 +1,4 @@
-package socket.tcp.portscan;
+package tools.socket.tcp.portscan;
 
 import java.io.IOException;
 import java.net.Socket;

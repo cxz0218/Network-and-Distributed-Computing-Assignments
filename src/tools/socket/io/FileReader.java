@@ -1,4 +1,4 @@
-package socket.io;
+package tools.socket.io;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -17,7 +17,7 @@ import java.io.UnsupportedEncodingException;
 public class FileReader {
 
     public static void main(String[] args) {
-        File f=new File("D:\\idea-workspace\\Echo\\src\\socket\\io\\message.txt");
+        File f=new File("D:\\idea-workspace\\Echo\\src\\tools.socket\\io\\message.txt");
         BufferedReader br = null;
         try {
             br=new BufferedReader(

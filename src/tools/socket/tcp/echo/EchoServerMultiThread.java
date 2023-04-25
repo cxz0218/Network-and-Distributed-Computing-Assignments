@@ -1,4 +1,4 @@
-package socket.tcp.echo;
+package tools.socket.tcp.echo;
 
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -17,7 +17,7 @@ public class EchoServerMultiThread {
     }
 
     public void service(){
-        //Socket socket = null;
+        //Socket tools.socket = null;
         //Thread thread = null;
         while (true){
             Socket socket = null;
@@ -35,7 +35,7 @@ public class EchoServerMultiThread {
     }
 
     public static void main(String[] args) throws IOException {
-        //socket.tcp.echo.EchoServer echoServer =new socket.tcp.echo.EchoServer();
+        //tools.socket.tcp.echo.EchoServer echoServer =new tools.socket.tcp.echo.EchoServer();
         //echoServer.service();
         new EchoServerMultiThread().service(); // 启动服务!!!
     }

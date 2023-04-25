@@ -4,7 +4,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.*;
 
-import bean.User;
+import exercise.JavaRMI.bean.User;
 
 /**
  * Creating a distributed agenda sharing service using Java RMI. This shared

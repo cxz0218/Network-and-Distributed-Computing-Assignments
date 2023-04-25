@@ -1,24 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eea4e06-ed45-4b3d-b329-8080eccc8247" name="Changes" comment="" />
+    <list default="true" id="1eea4e06-ed45-4b3d-b329-8080eccc8247" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/HttpWebServer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/HttpWebServer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/HttpWebServer/ConcurrentServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/HttpWebServer/ConcurrentServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpResponseConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpResponseConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/HttpWebServer/HttpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/JavaRMI/rface/MeetingInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/JavaRMI/rface/MeetingInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/FileClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/FileClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/FileServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/FileServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercise/TcpUdpSocket/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/Assignment4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/AddItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/AddItemResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/ClearAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/ClearAllResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/DeleteItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/DeleteItemResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/QueryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/QueryItemResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/RegisterResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/WebService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/WebServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/WebServiceImpl.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/client/www.service.com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/Encoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/WebService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/WebServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/WebServiceServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/bean/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/bean/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/database/DatabaseOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/WebService/src/server/database/SimulationDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/ConcurrentServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/HttpClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/HttpResponseConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/exercise2/HttpServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket/tcp/echo/EchoClient" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/inetaddress/TestAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/inetaddress/TestAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/io/FileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/io/FileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoClient1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoClient1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServerMultiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServerMultiThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServerThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/EchoServerThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/echo/Handler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/echo/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/tcp/portscan/PortScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/tcp/portscan/PortScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/thread/RunnableDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/thread/RunnableDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/thread/RunnableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/thread/RunnableTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/thread/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/thread/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoClientPPT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoClientPPT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/udp/echo/EchoServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tools/socket/url/TestURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tools/socket/url/TestURL.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2OsHKeRf0DJwITdoJbZ5auwOAS0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/0研究生学习/2就业/0. 项目实践/SocketProject/src/socket/io"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\0研究生学习\2就业\0. 项目实践\SocketProject\src\socket\io" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +119,30 @@
       <updated>1682342310074</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercise/HttpWebServer/Client.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

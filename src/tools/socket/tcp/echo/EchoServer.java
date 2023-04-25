@@ -1,4 +1,4 @@
-package socket.tcp.echo;
+package tools.socket.tcp.echo;
 
 import java.io.*;
 import java.net.ServerSocket;
@@ -22,7 +22,7 @@ public class EchoServer {
     }
 
     public static void main(String[] args) throws IOException {
-        //socket.tcp.echo.EchoServer echoServer =new socket.tcp.echo.EchoServer();
+        //tools.socket.tcp.echo.EchoServer echoServer =new tools.socket.tcp.echo.EchoServer();
         //echoServer.service();
         new EchoServer().service(); // 启动服务!!!
     }

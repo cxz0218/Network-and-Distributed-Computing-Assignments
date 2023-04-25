@@ -1,4 +1,4 @@
-package socket.udp.echo;
+package tools.socket.udp.echo;
 
 import java.io.IOException;
 import java.net.*;

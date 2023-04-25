@@ -1,4 +1,4 @@
-package socket.url;
+package tools.socket.url;
 import java.io.BufferedReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -29,7 +29,7 @@ public class TestURL {
             InputStreamReader fr = new InputStreamReader(fis);
             br = new BufferedReader(fr); //读取并封装字符流
 
-            fw = new FileWriter("D:\\idea-workspace\\Echo\\src\\socket\\url\\baidu.html"); //保存为文件
+            fw = new FileWriter("D:\\idea-workspace\\Echo\\src\\tools.socket\\url\\baidu.html"); //保存为文件
             String s = null;
             while ((s = br.readLine()) != null) { //操作
                 System.out.println(s);
